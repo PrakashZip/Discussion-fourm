@@ -1,4 +1,4 @@
-# Java Discussion Forum  -by @prakashZip
+# Java Discussion Forum  -by [@prakashZip](https://github.com/prakashZip)
 
 ## Overview
 
